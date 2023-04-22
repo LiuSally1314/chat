@@ -1,0 +1,51 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Caches
+out/
+production/
+target/
+build/
+dist/
+bin/
+logs/
+temp/
+tmp/
+*.log
+*.cache
+*.class
+
+# Misc
+*.DS_Store
+*.ipr
+*.iws
+*.bak
+*.swp
+*.bak.*
+*.orig.*
+*~
+*.~*
+
+# Gradle
+.gradle/
+build.gradle
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# Maven
+.m2/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
